@@ -1,0 +1,11 @@
+C:\MyProjects\CSharp\ApartmentPriceTracker\ApartmentPriceTracker.Server\bin\Debug\net8.0\ApartmentPriceTracker.Server.deps.json
+C:\MyProjects\CSharp\ApartmentPriceTracker\ApartmentPriceTracker.Server\bin\Debug\net8.0\ApartmentPriceTracker.Server.dll
+C:\MyProjects\CSharp\ApartmentPriceTracker\ApartmentPriceTracker.Server\bin\Debug\net8.0\ApartmentPriceTracker.Server.pdb
+C:\MyProjects\CSharp\ApartmentPriceTracker\ApartmentPriceTracker.Server\obj\Debug\net8.0\ApartmentPriceTracker.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\CSharp\ApartmentPriceTracker\ApartmentPriceTracker.Server\obj\Debug\net8.0\ApartmentPriceTracker.Server.AssemblyInfoInputs.cache
+C:\MyProjects\CSharp\ApartmentPriceTracker\ApartmentPriceTracker.Server\obj\Debug\net8.0\ApartmentPriceTracker.Server.AssemblyInfo.cs
+C:\MyProjects\CSharp\ApartmentPriceTracker\ApartmentPriceTracker.Server\obj\Debug\net8.0\ApartmentPriceTracker.Server.csproj.CoreCompileInputs.cache
+C:\MyProjects\CSharp\ApartmentPriceTracker\ApartmentPriceTracker.Server\obj\Debug\net8.0\ApartmentPriceTracker.Server.dll
+C:\MyProjects\CSharp\ApartmentPriceTracker\ApartmentPriceTracker.Server\obj\Debug\net8.0\refint\ApartmentPriceTracker.Server.dll
+C:\MyProjects\CSharp\ApartmentPriceTracker\ApartmentPriceTracker.Server\obj\Debug\net8.0\ApartmentPriceTracker.Server.pdb
+C:\MyProjects\CSharp\ApartmentPriceTracker\ApartmentPriceTracker.Server\obj\Debug\net8.0\ref\ApartmentPriceTracker.Server.dll

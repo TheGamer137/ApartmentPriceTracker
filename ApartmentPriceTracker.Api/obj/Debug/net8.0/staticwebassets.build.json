@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TLyhXvysHvIYYwcb6XCypnbiUJcq4BNuvcXBJiJh01A=",
+  "Source": "ApartmentPriceTracker.Api",
+  "BasePath": "_content/ApartmentPriceTracker.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

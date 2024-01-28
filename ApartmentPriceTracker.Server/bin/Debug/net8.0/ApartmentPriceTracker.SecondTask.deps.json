@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ApartmentPriceTracker.SecondTask/1.0.0": {
+        "runtime": {
+          "ApartmentPriceTracker.SecondTask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApartmentPriceTracker.SecondTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

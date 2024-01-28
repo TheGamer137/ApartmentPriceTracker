@@ -1,0 +1,230 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MyProjects\\CSharp\\ApartmentPriceTracker\\ApartmentPriceTracker.Api\\ApartmentPriceTracker.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\MyProjects\\CSharp\\ApartmentPriceTracker\\ApartmentPriceTracker.Api\\ApartmentPriceTracker.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyProjects\\CSharp\\ApartmentPriceTracker\\ApartmentPriceTracker.Api\\ApartmentPriceTracker.Api.csproj",
+        "projectName": "ApartmentPriceTracker.Api",
+        "projectPath": "C:\\MyProjects\\CSharp\\ApartmentPriceTracker\\ApartmentPriceTracker.Api\\ApartmentPriceTracker.Api.csproj",
+        "packagesPath": "C:\\Users\\blood\\.nuget\\packages\\",
+        "outputPath": "C:\\MyProjects\\CSharp\\ApartmentPriceTracker\\ApartmentPriceTracker.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\blood\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\MyProjects\\CSharp\\ApartmentPriceTracker\\ApartmentPriceTracker.Core\\ApartmentPriceTracker.Core.csproj": {
+                "projectPath": "C:\\MyProjects\\CSharp\\ApartmentPriceTracker\\ApartmentPriceTracker.Core\\ApartmentPriceTracker.Core.csproj"
+              },
+              "C:\\MyProjects\\CSharp\\ApartmentPriceTracker\\ApartmentPriceTracker.Infrastructure\\ApartmentPriceTracker.Infrastructure.csproj": {
+                "projectPath": "C:\\MyProjects\\CSharp\\ApartmentPriceTracker\\ApartmentPriceTracker.Infrastructure\\ApartmentPriceTracker.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MyProjects\\CSharp\\ApartmentPriceTracker\\ApartmentPriceTracker.Core\\ApartmentPriceTracker.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyProjects\\CSharp\\ApartmentPriceTracker\\ApartmentPriceTracker.Core\\ApartmentPriceTracker.Core.csproj",
+        "projectName": "ApartmentPriceTracker.Core",
+        "projectPath": "C:\\MyProjects\\CSharp\\ApartmentPriceTracker\\ApartmentPriceTracker.Core\\ApartmentPriceTracker.Core.csproj",
+        "packagesPath": "C:\\Users\\blood\\.nuget\\packages\\",
+        "outputPath": "C:\\MyProjects\\CSharp\\ApartmentPriceTracker\\ApartmentPriceTracker.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\blood\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MyProjects\\CSharp\\ApartmentPriceTracker\\ApartmentPriceTracker.Infrastructure\\ApartmentPriceTracker.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyProjects\\CSharp\\ApartmentPriceTracker\\ApartmentPriceTracker.Infrastructure\\ApartmentPriceTracker.Infrastructure.csproj",
+        "projectName": "ApartmentPriceTracker.Infrastructure",
+        "projectPath": "C:\\MyProjects\\CSharp\\ApartmentPriceTracker\\ApartmentPriceTracker.Infrastructure\\ApartmentPriceTracker.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\blood\\.nuget\\packages\\",
+        "outputPath": "C:\\MyProjects\\CSharp\\ApartmentPriceTracker\\ApartmentPriceTracker.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\blood\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\MyProjects\\CSharp\\ApartmentPriceTracker\\ApartmentPriceTracker.Core\\ApartmentPriceTracker.Core.csproj": {
+                "projectPath": "C:\\MyProjects\\CSharp\\ApartmentPriceTracker\\ApartmentPriceTracker.Core\\ApartmentPriceTracker.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.17.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
